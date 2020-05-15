@@ -1,0 +1,10 @@
+
+li:nth-child(2n + 1) {
+  background: #ddd;
+}
+
+li.checked {
+  background: black;
+  color: white;
+  text-decoration: line-through;
+}
